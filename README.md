@@ -23,7 +23,7 @@
 
 ---
 ## 🌐 배포 링크
-https://rinda1234.pattern
+https://rinda1234.github.io/pattern/
 
 ---
 ## 🖼 실행 화면
